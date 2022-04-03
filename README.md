@@ -9,4 +9,6 @@
 <p align="center">Also join our <a href="https://t.me/TechnoAyanYT">Telegram Support Group</a> for help and support!</p>
 
 
+- [![Deploy](https://te.legra.ph/file/ae75fa2fa5162df47264d.jpg)](https://heroku.com/deploy/)
 
+<h7 align="center">
